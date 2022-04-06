@@ -19,6 +19,7 @@ else:
     print("there is a words_to_learn file")
 
 print("sen anan yani")
+print("sdkjhfwkjdhfkljsdf")
 
 to_learn = data.to_dict(orient="records") #orient is the parameter to determine the dict type eg record is as follow.
 print()
